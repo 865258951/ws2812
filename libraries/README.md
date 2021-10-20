@@ -12,4 +12,8 @@ https://www.arduino.cn/package_esp8266com_index.json
 
 下载8266_package_3.0.1_arduino.cn.exe
 
+下载地址1：https://www.aliyundrive.com/s/u1xLznAEvJu
+
+下载地址2：https://share.weiyun.com/5CGEKJO
+
 双击运行即可解压，解压完成后，再打开Arduino IDE，即可在 菜单栏>工具>开发板 中找到你使用的esp8266开发板
